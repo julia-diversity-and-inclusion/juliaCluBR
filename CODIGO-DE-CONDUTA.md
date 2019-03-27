@@ -2,9 +2,13 @@
   <img src="img/julia-logo.png"/>
 </p>
 
-<center> <h1>Julia CluBR</h1> </center>
-<center> <h1>Código de Conduta
-</h1> </center>
+<h1 align="center">
+Julia CluBR
+</h1>
+
+<h1 align="center">
+Código de Conduta
+</h1>
 
 
 O Julia CluBR segue o código de conduta da comunidade Julia, que se compromete em manter um ambiente acolhedor, civilizado e construtivo. Esperamos que os seguintes padrões sejam observados e mantidos por todos os participantes em qualquer fórum ou evento da comunidade.
