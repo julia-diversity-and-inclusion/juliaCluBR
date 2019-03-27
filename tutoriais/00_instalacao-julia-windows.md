@@ -4,13 +4,13 @@ Olá a todas e a todos! Sejam bem vindas e bem vindos :heart:! Este é um tutori
 
 Neste tutorial veremos como instalar a versão mais recente de Julia (compatível com os nosso computadores) e daremos os primeiros passos no mundo da programação! Estão prontas e prontos para o desafio?
 
-TOC
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- Acessando o site oficial da linguagem Julia
-- Identificando a arquitetura do nosso sistema operacional
-- Baixando a versão ideal para o nosso sistema operacional
-- Instalando!
-- Hello, World!
+- [Acessando o site oficial da linguagem Julia](#acessando-o-site-oficial-da-linguagem-julia)
+- [Identificando a arquitetura do nosso sistema operacional](#identificando-a-arquitetura-do-nosso-sistema-operacional)
+- [Baixando a versão ideal para o nosso sistema operacional](#baixando-a-verso-ideal-para-o-nosso-sistema-operacional)
+
+<!-- /TOC -->
 
 ## Acessando o site oficial da linguagem Julia
 
@@ -20,7 +20,7 @@ Antes de tudo, vamos acessar o site da linguagem Julia! Abra sua navegador prefe
 julialang.org
 ```
 
-Se preferir, simplesmente clique [aqui](https://julialang.org/).
+Se preferir, simplesmente clique :point_right: [aqui](https://julialang.org/).
 
 Você verá isso:
 
@@ -32,7 +32,7 @@ Antes de instalarmos qualquer coisa, vamos conferir a arquitetura do nosso siste
 
 <!--
 @todo : A instalação no Windows 7 necessita de pacotes adicionais
-@body : Ver pacote necessários na página de downloads de Julia 
+@body : Ver pacote necessários na página de downloads de Julia
 Comando para descobrir qual é a versão do Windows pelo terminal:
 - https://www.windows-commandline.com/find-windows-os-version-from-command/
 
