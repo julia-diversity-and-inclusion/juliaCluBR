@@ -2,4 +2,6 @@
 
 Repositório com os arquivos para o curso "Introdução à linguagem de programação Julia"
 
-<img src="img/banner-div-julia.png">
+<p align="center">
+    <img src="img/banner-div-julia.png" width="300">
+</p>
