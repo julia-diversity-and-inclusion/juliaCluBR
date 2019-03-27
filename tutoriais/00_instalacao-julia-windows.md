@@ -2,7 +2,7 @@
 
 Olá a todas e a todos! Sejam bem vindas e bem vindos :heart:! Este é um tutorial de instalação da linguagem de programação Julia! Se você chegou até aqui, segure em nossas mãos e bora deixar nossa máquina pronta para o trabalho!
 
-Neste tutorial veremos como instalar a versão mais recente de Julia (compatível com os nosso computadores) e daremos os primeiros passos no mundo da programação! Estão prontas e prontos para o desafio?
+Neste tutorial veremos como instalar a versão mais recente de Julia (compatível com os nossos computadores) e daremos os primeiros passos no mundo da programação! Estão prontas e prontos para o desafio?
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -38,7 +38,7 @@ Comando para descobrir qual é a versão do Windows pelo terminal:
 
 -->
 
-Nesse passo, vamos descobrir qual é arquitetura utilizada pelo nosso sistema operacional. Antes de tudo, estamos assumindo que você utiliza o sistema operacional Windows. Para instalar Julia em outros sistemas operacionais, por favor, procure os instrutores/monitores pessoalmente ou pelo nosso canal no [Slack](http://julia-diversity-ptbr.slack.com).
+Nesse passo, vamos descobrir qual é a arquitetura utilizada pelo nosso sistema operacional. Antes de tudo, estamos assumindo que você utiliza o sistema operacional Windows. Para instalar Julia em outros sistemas operacionais, por favor, procure os instrutores/monitores pessoalmente ou pelo nosso canal no [Slack](http://julia-diversity-ptbr.slack.com).
 
 Já que vamos entrar no mundo da programação, que tal arriscarmos alguns comandos no terminal (aquela tela com fundo preto que os *hackers* utilizam)? Vem com a gente!
 
