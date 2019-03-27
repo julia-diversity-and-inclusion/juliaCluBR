@@ -31,8 +31,8 @@ Antes de instalarmos qualquer coisa, vamos conferir a arquitetura do nosso siste
 ## Identificando a arquitetura do nosso sistema operacional
 
 <!--
-TODO: A instalação no Windows 7 necessita de pacotes adicionais
-BODY: Ver pacote necessários na página de downloads de Julia 
+@todo : A instalação no Windows 7 necessita de pacotes adicionais
+@body : Ver pacote necessários na página de downloads de Julia 
 Comando para descobrir qual é a versão do Windows pelo terminal:
 - https://www.windows-commandline.com/find-windows-os-version-from-command/
 
