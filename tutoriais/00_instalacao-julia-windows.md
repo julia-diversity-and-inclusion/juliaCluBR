@@ -95,6 +95,29 @@ Estamos nesta página agora, certo?
 
 Descobrimos a arquitetura do nosso sistema no passo anterior, agora vamos procurar qual é o instalador ideal para nosso computador. Tudo o que você precisa é clicar no link do instalador ideal para o seu computador e o download será iniciado automaticamente.
 
+
+
+
+
+
+
+<!-- @todo : Finalizar tutorial instalação windows -->
+<!-- @body : Testar instalação em algum pc com windows -->
+
+
+
+
+
+
+
+
+
+<!-- @todo : Incluir tutorial de instalação do JuliaPro -->
+<!-- @body : Ver em: https://juliacomputing.com/products/juliapro#t01 -->
+
+
+
+
 -----------------------------------------------------------------
 
 <!-- FOOT NOTES -->
