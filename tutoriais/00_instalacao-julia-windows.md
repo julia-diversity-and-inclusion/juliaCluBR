@@ -132,11 +132,11 @@ Estamos próximos do fim. Nossa sugestão é que você marque as duas últimas c
 
 ![](src/06.png)
 
-Se formos até nossa área de trabalho, veremos o atalho de julia. São essas três simpáticas bolinhas coloridas. Bora testar!? Dê dois cliques aí no atalho.
+Se formos até nossa área de trabalho, veremos o atalho de Julia. São essas três simpáticas bolinhas coloridas. Bora testar!? Dê dois cliques aí no atalho.
 
 ![](src/07.png)
 
-Se tudo deu certo, você vai ver a tela do terminal ~~hacker~~! Com isso, nosso computador está pronto para o trabalho. Você pode testar uma operação de soma, por exemplo. Digite `2+2` e pressione Enter. Se o resultado aparecer, então realmente está tudo certo! Repare também que essa tela inicial oferece algumas informações que podem ser importantes. Por exemplo, ela fornece o endereço no qual encontramos a <!-- @todo Inserir nota de rodapé explicando o que a documentação --> documentação de Julia. Além disso, podemos encontrar algumas informações de ajuda se digitarmos `?` ou `]?`. Mas essa tela parece pouca sedutora, e seria muito mais interessante se tivéssemos um programa intregado que pudesse acessar essas informações, que nos permitisse escrever e testar nosso código linha a linha. Foi pensando em resolver esse o problema de ~~sedução~~ integração (e muitos outros, na verdade) que a comunidade que criou Julia desenvolveu uma outra interface! Se você quer instalar esse programa, continue o tutorial. Nós vamos colocar algumas armaduras em Julia!
+Se tudo deu certo, você vai ver a tela do terminal ~~hacker~~! Com isso, nosso computador está pronto para o trabalho. Você pode testar uma operação de soma, por exemplo. Digite `2+2` e pressione Enter. Se o resultado aparecer, então realmente está tudo certo! Repare também que essa tela inicial oferece algumas informações que podem ser importantes. Por exemplo, ela fornece o endereço no qual encontramos a <!-- @todo Inserir nota de rodapé explicando o que a documentação --> documentação de Julia. Além disso, podemos encontrar algumas informações de ajuda se digitarmos `?` ou `]?`. Mas essa tela parece pouco sedutora, e seria muito mais interessante se tivéssemos um programa intregado que pudesse acessar essas informações, que nos permitisse escrever e testar nosso código linha a linha. Foi pensando em resolver esse o problema de ~~sedução~~ integração (e muitos outros, na verdade) que a comunidade que criou Julia desenvolveu uma outra interface! Se você quer instalar esse programa, continue o tutorial. Nós vamos colocar algumas armaduras em Julia!
 
 ![](src/08.png)
 
@@ -192,7 +192,7 @@ Aguardemos :coffee: ~~quantos já bebemos!?~~!
 
 ![](src/16.png)
 
-E se tudo deu certo! :tada: :tada: :tada:
+E se tudo deu certo... :tada: :tada: :tada:
 
 Este aí é o JuliaPro! Na nossa opinião, essa tela é mais bonita que o terminal :heart_eyes:. O que você acha? Tem tanta funcionalidade aí que merece um tutorial à parte.
 
