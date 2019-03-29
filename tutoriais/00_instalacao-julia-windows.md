@@ -9,6 +9,8 @@ Neste tutorial veremos como instalar a versão mais recente de Julia (compatíve
 - [Acessando o site oficial da linguagem Julia](#acessando-o-site-oficial-da-linguagem-julia)
 - [Identificando a arquitetura do nosso sistema operacional](#identificando-a-arquitetura-do-nosso-sistema-operacional)
 - [Baixando a versão ideal para o nosso sistema operacional](#baixando-a-verso-ideal-para-o-nosso-sistema-operacional)
+- [Instalando Julia](#instalando-julia)
+- [Instalando JuliaPro (leia-se: Julia com super-poderes!)](#instalando-juliapro-leia-se-julia-com-super-poderes)
 
 <!-- /TOC -->
 
