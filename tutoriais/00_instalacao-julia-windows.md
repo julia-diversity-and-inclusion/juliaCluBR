@@ -95,26 +95,115 @@ Estamos nesta página agora, certo?
 
 Descobrimos a arquitetura do nosso sistema no passo anterior, agora vamos procurar qual é o instalador ideal para nosso computador. Tudo o que você precisa é clicar no link do instalador ideal para o seu computador e o download será iniciado automaticamente.
 
+<!--
+```bash
+for i in {01..17..1}
+do
+  echo -e "! [ ] (src / $i.png )"
+done
+```
+-->
+
+## Instalando Julia
+
+Agora que o arquivo de Julia está em nosso computador, precisamos apenas executá-lo! Simples assim! Se tudo der certo, você verá as janelas habituais para a instalação da maioria dos programas. Vamos juntos, passo a passo.
+
+![](src/01.png)
+
+Execute!
+
+![](src/02.png)
+
+Aguarde!
+
+![](src/03.png)
+
+Nossa sugestão é que você mantenha o local padrão de instalação que o próprio instalador fornece. Geralmente, em `C:\`. Clique em *Install*.
+
+![](src/04.png)
+
+Aguarde mais um pouco...
+
+![](src/05.png)
+
+Estamos próximos do fim. Nossa sugestão é que você marque as duas últimas caixinhas: *Create Start Menu Folder and shortcut* e *Create desktop shortcut*.
+
+![](src/06.png)
+
+Se formos até nossa área de trabalho, veremos o atalho de julia. São essas três simpáticas bolinhas coloridas. Bora testar!? Dê dois cliques aí no atalho.
+
+![](src/07.png)
+
+Se tudo deu certo, você vai ver a tela do terminal ~~hacker~~! Com isso, nosso computador está pronto para o trabalho. Você pode testar uma operação de soma, por exemplo. Digite `2+2` e pressione Enter. Se o resultado aparecer, então realmente está tudo certo! Repare também que essa tela inicial oferece algumas informações que podem ser importantes. Por exemplo, ela fornece o endereço no qual encontramos a <!-- @todo Inserir nota de rodapé explicando o que a documentação --> documentação de Julia. Além disso, podemos encontrar algumas informações de ajuda se digitarmos `?` ou `]?`. Mas essa tela parece pouca sedutora, e seria muito mais interessante se tivéssemos um programa intregado que pudesse acessar essas informações, que nos permitisse escrever e testar nosso código linha a linha. Foi pensando em resolver esse o problema de ~~sedução~~ integração (e muitos outros, na verdade) que a comunidade que criou Julia desenvolveu uma outra interface! Se você quer instalar esse programa, continue o tutorial. Nós vamos colocar algumas armaduras em Julia!
+
+![](src/08.png)
+
+## Instalando JuliaPro (leia-se: Julia com super-poderes!)
+
+O processo de instalação de JuliaPro é muito similar ao da instalação de Julia em si. Precisamos nos atentar a poucos detalhes. Vamos nessa!?
+
+O primeiro passo aqui é acessar o site do JuliaPro. Volte ao seu navegador e navegue até:
+
+```
+https://juliacomputing.com/
+```
+
+Ou, clique [aqui](https://juliacomputing.com/).
+
+A comunidade de Julia desenvolveu diferentes soluções. Tem para todos os gostos. Aqui, nós vamos utilizar a solução JuliaPro! Para baixá-la, clique no botão de download.
+
+![](src/09-01.png)
+
+Seremos levados à página de download. Escolha o sistema operacional e clique em download. Isso nos levará para uma página de registro.
+
+![](src/09.png)
+
+Escolha a forma que você prefere para fazer o registro. Você receberá um email de confirmação de registro. Aceite e volte à página de download.
+
+![](src/10.png)
+
+Use seu usuário e senha aqui. O download do JuliaPro deve iniciar instantaneamente. Aguardemos :coffee:!
+
+![](src/11.png)
+
+Se o download foi bem sucedido, encontraremos o instalador de JuliaPro na pasta de download, ou em qualquer outra pasta que você tenha escolhido para armazená-lo. Achou o seu?
+
+![](src/12.png)
+
+ATENÇÃO:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:
+
+O detalhe está aqui! Nós precisamos executar este instalador como administrador. Então, clique com o botão direito sobre o instalador de JuliaPro e o execute como administrador.
+
+![](src/13.png)
+
+Aguardemos...
+
+![](src/14.png)
+
+Se tudo der certo, veremos este atalho na área de trabalho. O clímax é agora... Prepare-se e dê dois cliques aí nesse atalho!
+
+![](src/15.png)
+
+Durante esta etapa, que ocorre apenas no primeiro, todas as funcionalidades de JuliaPro serão instaladas e devidamente configuradas.
+
+Aguardemos :coffee: ~~quantos já bebemos!?~~!
+
+![](src/16.png)
+
+E se tudo deu certo! :tada: :tada: :tada:
+
+Este aí é o JuliaPro! Na nossa opinião, essa tela é mais bonita que o terminal :heart_eyes:. O que você acha? Tem tanta funcionalidade aí que merece um tutorial à parte.
 
 
+![](src/17.png)
 
 
+Por hora, é isso! ~~ufa ainda bem que acabou eu não aguentava mais credo~~ Durante o curso exploraremos todas as funcionalidades de JuliaPro. Nos vemos em breve!
 
-
-<!-- @todo : Finalizar tutorial instalação windows -->
-<!-- @body : Testar instalação em algum pc com windows -->
-
-
-
-
-
-
-
-
+:kissing_heart: :kissing_heart: :kissing_heart:
 
 <!-- @todo : Incluir tutorial de instalação do JuliaPro -->
 <!-- @body : Ver em: https://juliacomputing.com/products/juliapro#t01 -->
-
 
 
 
