@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="153.501px"
+   height="69.329px"
+   viewBox="220.89 147.909 153.501 69.329"
+   enable-background="new 220.89 147.909 153.501 69.329"
+   xml:space="preserve"
+   sodipodi:docname="Scratch Control Blocks_repeat until.svg"
+   inkscape:version="0.92.1 r15371"><metadata
+   id="metadata49"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs47" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview45"
+   showgrid="false"
+   inkscape:zoom="1.8892384"
+   inkscape:cx="76.750504"
+   inkscape:cy="34.664501"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g38" />
+<g
+   id="g42">
+	<g
+   id="g40">
+		<path
+   fill="#F2AF31"
+   d="M243.89,170.075h5.984h2.1h0.005l2.051,2.539c0.189,0.236,0.477,0.373,0.777,0.373h7.758    c0.303,0,0.588-0.137,0.777-0.373l2.051-2.539h0.005h29.983h8.137h21h6.873h17h4h17c2.762,0,5-2.238,5-5v-12.166    c0-2.762-2.238-5-5-5h-17h-4h-17h-6.873h-21h-8.137h-47.983l-2.056,2.545c-0.189,0.234-0.476,0.371-0.777,0.371h-7.758    c-0.302,0-0.588-0.137-0.777-0.371l-2.056-2.545h-8.084c-2.718,0-4.919,2.172-4.987,4.875h-0.013v0.125v12.166v32.084v9.438v2.729    c0,2.762,2.239,5,5,5h8.089l2.051,2.539c0.189,0.236,0.477,0.373,0.777,0.373h7.757c0.304,0,0.588-0.137,0.778-0.373l2.051-2.539    h47.988h8.137h21h6.873h17h4h17c2.762,0,5-2.238,5-5V197.16c0-2.477-1.805-4.518-4.168-4.916h-17h-4h-17h-7.705h-21h-8.137    h-29.988l-2.051,2.539c-0.189,0.234-0.476,0.371-0.777,0.371h-7.758c-0.302,0-0.588-0.137-0.777-0.371l-2.051-2.539h-8.089    c-2.761,0-5-2.238-5-5v-12.168C238.89,172.313,241.129,170.075,243.89,170.075z"
+   id="path2" />
+		<g
+   id="g38">
+			
+			<rect
+   x="309.053"
+   y="151.618"
+   fill="#FFFFFF"
+   width="57.215"
+   height="14.779"
+   id="rect30" />
+			<g
+   id="g36">
+				<polygon
+   fill="#FFFFFF"
+   points="359.433,201.073 362.438,196.841 365.479,201.062     "
+   id="polygon32" />
+				<path
+   fill="#FFFFFF"
+   d="M365.927,200.907l-3.041-4.221c-0.085-0.117-0.258-0.191-0.448-0.191c-0.001,0-0.001,0-0.001,0      c-0.19,0-0.364,0.074-0.448,0.193l-3.005,4.231c-0.074,0.107-0.065,0.234,0.025,0.334c0.092,0.103,0.252,0.164,0.424,0.164      c0.001,0,0.002,0,0.002,0l2.521-0.006v1.254c0,2.832-3.34,5.14-7.443,5.14H338.16c-0.276,0-0.5,0.151-0.5,0.344      c0,0.191,0.224,0.346,0.5,0.346h16.353c4.655,0,8.443-2.615,8.443-5.828v-1.256l2.522-0.006c0.174,0,0.334-0.063,0.424-0.164      C365.995,201.14,366.003,201.015,365.927,200.907z M362.956,200.722v-0.367c0-0.191-0.226-0.347-0.5-0.347      c-0.277,0-0.5,0.154-0.5,0.347v0.367l-1.722,0.004l2.205-3.105l2.232,3.096L362.956,200.722z"
+   id="path34" />
+			</g>
+		<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:Terminal;-inkscape-font-specification:Terminal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="234.00226"
+   y="163.73549"
+   id="text4528"><tspan
+     sodipodi:role="line"
+     id="tspan4526"
+     x="234.00226"
+     y="163.73549"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff">repita até</tspan></text>
+</g>
+	</g>
+</g>
+</svg>
