@@ -11,7 +11,7 @@
 
 ## Dia 1
 
-- Instalação: Julia e IDE JuliaPro
+- [Instalação: Julia e IDE JuliaPro](/tutoriais)
 
 - Introdução à lógica de programação em Julia
 
