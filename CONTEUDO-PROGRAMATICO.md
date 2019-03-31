@@ -17,7 +17,7 @@
 
 - Funcionalidades do Slack
 
-- Funcionalidades do Github
+- [Funcionalidades do Github](https://github.com/kguidonimartins/studygroup-ufg/blob/master/guia-de-referencia.md)  
 
 ## Dia 2
 
