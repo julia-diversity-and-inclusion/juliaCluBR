@@ -12,6 +12,7 @@
 
 Como buscar ajuda (links também nos slides)  
    - [Nosso workspace no Slack](https://julia-diversity-ptbr.slack.com)
+      - [Convite para entrar no workspace](https://join.slack.com/t/julia-diversity-ptbr/shared_invite/enQtNjA0MDA1MTczNDYzLWNhOTY2NDhhODdjMTUyMzk1OTM1YjhlYmEyZWM0MzcyNDRkZTI5MDZlOGQ4ZGEyMWE0Y2QyNzg1MzI4ZGIzM2M)
    - [Discourse](https://discourse.julialang.org/)
    - [Stackoverflow](https://stackoverflow.com/questions/tagged/julia?sort=frequent&pageSize=15)
    - [Twitter](https://twitter.com/hashtag/julialang?f=tweets&vertical=default&src=hash)
