@@ -13,11 +13,15 @@
 
 - [Instalação: Julia e IDE JuliaPro](tutoriais/00_instalacao-julia-windows.md)
 
-- Introdução à lógica de programação em Julia
+- Apresentação do projeto
 
 - Funcionalidades do Slack
 
 - [Funcionalidades do Github](https://github.com/kguidonimartins/studygroup-ufg/blob/master/guia-de-referencia.md)  
+
+- Operações, vetores e matrizes
+  - [Anotações, links e slides](https://hackmd.io/s/BJ-ZKqwYN)
+  - [Desafios para a semana 02](https://hackmd.io/s/S10POjPtE)
 
 ## Dia 2
 
