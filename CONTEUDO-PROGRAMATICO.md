@@ -25,6 +25,16 @@
 
 ## Dia 2
 
+- Arrays
+
+- Operações e buscas em matrizes e vetores
+
+- Plots
+
+  - [Anotações](/semana02/02-colab_notes.ipynb)
+  - [Slides](/semana02/FUCHIGAMI%202019%20grupo%20de%20estudo%20julia%20%5B2%5D.pdf)
+  - [Desafios para a semana 02](/semana02/02-exercícios_JuliaCluBR.md)
+
 ## Dia 3
 
 ## Dia 4
