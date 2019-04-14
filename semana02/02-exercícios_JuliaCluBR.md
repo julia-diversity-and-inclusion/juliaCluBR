@@ -2,6 +2,7 @@
 
 1. Dado `x = -10:10`, plote y vs. x para `y=x²`<sup>[1](#1)</sup>
 
+
 2. Execute os comandos:
 ```p1 = plot(x, x)
 p2 = plot(x, x.^2)
