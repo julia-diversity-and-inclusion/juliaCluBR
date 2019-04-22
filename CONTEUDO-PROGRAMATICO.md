@@ -33,7 +33,7 @@
 
   - [Anotações](/semana02/02-colab_notes.ipynb)
   - [Slides](/semana02/FUCHIGAMI%202019%20grupo%20de%20estudo%20julia%20%5B2%5D.pdf)
-  - [Desafios para a semana 02](/semana02/02-exercícios_JuliaCluBR.md)
+  - [Desafios para a semana 03](/semana02/02-exercícios_JuliaCluBR.md)
 
 ## Dia 3
 
@@ -43,7 +43,7 @@
   - Exportar e importar
 - MarkDown
 - [Anotações](/semana03/03-colab_notes.ipynb)
-- [Exercícios para a semana 04](/semana03/03-exercícios.md)
+- [Exercícios para a semana 04](/semana03/03-exercicios.md)
   
 ## Dia 4
 - Estatística
