@@ -37,4 +37,13 @@
 
 ## Dia 3
 
+- Dataframes
+  - Criação, organização, manipulação
+  - Inspeção (estrutura, descritores)
+  - Exportar e importar
+- MarkDown
+- [Anotações](/semana03/03-colab_notes.ipynb)
+- [Exercícios para a semana 04](/semana03/03-exercícios.md)
+  
 ## Dia 4
+- Estatística
